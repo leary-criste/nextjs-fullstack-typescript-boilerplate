@@ -10,4 +10,4 @@ const getUserData: GetUserData = (request) => {
   return { id: +userId };
 };
 
-export default getUserData;
+export default getUserData;
