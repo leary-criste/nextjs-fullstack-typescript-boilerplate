@@ -42,4 +42,4 @@ export interface CookieStoreType {
   setAsync: SetCookie<true>;
   delete: DeleteCookie;
   deleteAsync: DeleteCookie<true>;
-}
+}
