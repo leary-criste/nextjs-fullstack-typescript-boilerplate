@@ -26,4 +26,4 @@ export const useLogout = () => {
     onSuccess: logout,
     onError: logout,
   });
-};
+};
