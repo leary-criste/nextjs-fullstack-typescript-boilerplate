@@ -33,4 +33,4 @@ export const useProfile = () => {
       if (data) setUser(data);
     },
   });
-};
+};
