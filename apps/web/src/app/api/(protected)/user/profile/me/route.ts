@@ -16,4 +16,4 @@ export const GET: Route = async (request) => {
   return sendRes(data, constants.SUCCESS, {
     message: constants.PROFILE_RETRIEVED,
   });
-};
+};
