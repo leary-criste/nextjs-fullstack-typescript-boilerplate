@@ -1,1 +1,1 @@
-export * from '@/utils/strings/common';
+export * from '@/utils/strings/common';
