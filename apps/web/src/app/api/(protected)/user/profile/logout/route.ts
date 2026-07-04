@@ -10,4 +10,4 @@ export const POST: Route = async () => {
   return sendRes(undefined, constants.SUCCESS, {
     message: constants.LOGOUT_MESSAGE,
   });
-};
+};
