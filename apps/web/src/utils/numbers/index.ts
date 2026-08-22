@@ -1,1 +1,1 @@
-export * from '@/utils/numbers/common';
+export * from '@/utils/numbers/common';
