@@ -5,4 +5,4 @@ export const toFixedNumber: ToFixedNumber = (num, digits, base = 10) => {
   const pow = base ** digits;
 
   return Math.round(num * pow) / pow;
-};
+};
